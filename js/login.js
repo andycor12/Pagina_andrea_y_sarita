@@ -3,7 +3,7 @@ function obtenerdatos(){
     if (listar==null){
         listar=
         [
-        ['1','admin','','andy@gmail.com','1234','1999-04-15','Administrador'],
+        ['1','admin','','andy@gmail.com','admin','1999-04-15','Administrador'],
         ['2','sarita','salazar','sarita@gmail.com','123','2000-05-25','user']
         ]
     
